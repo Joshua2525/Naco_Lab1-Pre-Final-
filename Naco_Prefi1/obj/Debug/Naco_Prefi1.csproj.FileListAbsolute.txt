@@ -1,0 +1,12 @@
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\bin\Debug\Naco_Prefi1.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\bin\Debug\Naco_Prefi1.exe
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\bin\Debug\Naco_Prefi1.pdb
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.exe
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.pdb
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.Registration.resources
+C:\Users\ComputerLab4PC1\source\repos\Naco_Prefi1\obj\Debug\Naco_Prefi1.FrmOpenFile.resources
